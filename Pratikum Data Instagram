@@ -1,0 +1,34 @@
+127.0.0.1/db_sma2/tbl_scraping/		http://localhost/phpmyadmin/index.php?route=/database/sql&db=db_sma2
+
+   Showing rows 0 - 24 (302810 total, Query took 0.2485 seconds.) [follower_count: 99234404... - 61198241...]
+
+
+SELECT * FROM tbl_scraping ORDER BY follower_count DESC;
+
+
+id	ig_username	url	follower_count   	like_count	comment_count	response_count	taken_at	completed	category	created	updated	
+304086	championsleague	https://instagram.com/p/CjoTIa_ommQ	99234404	1155215	2341	0	2022-10-13 05:01:32	1	H	2022-10-14 09:24:57	2022-10-14 09:24:57	
+284644	championsleague	https://instagram.com/p/CjDCogiomur	98686530	209418	636	0	2022-09-28 17:46:07	1	H	2022-09-29 08:52:56	2022-09-29 08:52:56	
+273855	championsleague	https://instagram.com/p/Ciu66xMo0NO	98395115	344946	1233	0	2022-09-20 22:17:16	1	H	2022-09-21 02:51:23	2022-09-21 02:51:23	
+180166	raffinagita1717	https://instagram.com/p/CdgDp9Ivnq6	61563707	148187	1459	0	2022-05-13 21:03:32	1	H	2022-05-14 00:22:28	2022-05-14 00:22:28	
+312566	manchesterunited	https://instagram.com/p/Cj8KsPwIfTz	61251427	136616	3864	0	2022-10-20 22:12:07	1	L	2022-10-21 10:41:07	2022-10-21 10:41:07	
+312567	manchesterunited	https://instagram.com/p/Cj7_bs4oL41	61251373	149232	2034	0	2022-10-20 20:33:44	1	L	2022-10-21 10:41:07	2022-10-21 10:41:07	
+312568	manchesterunited	https://instagram.com/p/Cj7013GPDQq	61251321	1692143	5671	0	2022-10-20 19:01:46	1	H	2022-10-21 10:41:07	2022-10-21 10:41:07	
+312569	manchesterunited	https://instagram.com/p/Cj7nE0uIgFO	61251263	166350	1852	0	2022-10-20 17:00:54	1	L	2022-10-21 10:41:07	2022-10-21 10:41:07	
+312570	manchesterunited	https://instagram.com/p/Cj7f5mnD27s	61251221	313874	1777	0	2022-10-20 16:01:30	1	M	2022-10-21 10:41:07	2022-10-21 10:41:07	
+312571	manchesterunited	https://instagram.com/p/Cj7aC_cNAuq	61251218	214444	736	0	2022-10-20 15:07:03	1	M	2022-10-21 10:41:07	2022-10-21 10:41:07	
+312572	manchesterunited	https://instagram.com/p/Cj63BcSKo9v	61251206	170914	2386	0	2022-10-20 10:01:01	1	L	2022-10-21 10:41:07	2022-10-21 10:41:07	
+309943	manchesterunited	https://instagram.com/p/Cj2ufFsqJGD	61232984	244511	614	0	2022-10-18 19:29:27	1	M	2022-10-19 09:45:01	2022-10-19 09:45:01	
+309942	manchesterunited	https://instagram.com/p/Cj2ufFsqJGD	61232958	244291	617	0	2022-10-18 19:29:27	1	M	2022-10-19 09:45:01	2022-10-19 09:45:01	
+309941	manchesterunited	https://instagram.com/p/Cj2ufFsqJGD	61232948	244073	612	0	2022-10-18 19:29:27	1	M	2022-10-19 09:45:01	2022-10-19 09:45:01	
+308555	manchesterunited	https://instagram.com/p/CjypuUordyk	61221226	198620	466	0	2022-10-17 05:30:53	1	H	2022-10-18 09:00:19	2022-10-18 09:00:19	
+308554	manchesterunited	https://instagram.com/p/CjzPeqxIJMb	61221216	112843	145	0	2022-10-17 11:00:47	1	L	2022-10-18 09:00:19	2022-10-18 09:00:19	
+308553	manchesterunited	https://instagram.com/p/Cjz7xaEjHZM	61221210	76480	158	0	2022-10-17 17:36:55	1	L	2022-10-18 09:00:19	2022-10-18 09:00:19	
+308551	manchesterunited	https://instagram.com/p/Cj0Tw-pIPdp	61221205	150370	234	0	2022-10-17 20:57:29	1	M	2022-10-18 09:00:19	2022-10-18 09:00:19	
+308550	manchesterunited	https://instagram.com/p/Cj0b_uGN0kC	61221195	255567	488	0	2022-10-17 22:09:24	1	H	2022-10-18 09:00:19	2022-10-18 09:00:19	
+307311	manchesterunited	https://instagram.com/p/CjxozOFMpcc	61198408	316137	678	0	2022-10-16 20:03:34	1	H	2022-10-17 10:21:00	2022-10-17 10:21:00	
+307310	manchesterunited	https://instagram.com/p/Cjxsx_1skAD	61198398	250794	543	0	2022-10-16 20:38:21	1	H	2022-10-17 10:21:00	2022-10-17 10:21:00	
+307309	manchesterunited	https://instagram.com/p/CjxuDmJIM_u	61198364	191034	2727	0	2022-10-16 20:49:30	1	M	2022-10-17 10:21:00	2022-10-17 10:21:00	
+307308	manchesterunited	https://instagram.com/p/CjxwXg6sjEt	61198352	130475	326	0	2022-10-16 21:09:41	1	L	2022-10-17 10:21:00	2022-10-17 10:21:00	
+307307	manchesterunited	https://instagram.com/p/CjxzpwrMtC8	61198315	177677	682	0	2022-10-16 21:38:24	1	M	2022-10-17 10:21:00	2022-10-17 10:21:00	
+307306	manchesterunited	https://instagram.com/p/Cjx1qzGInir	61198241	325722	11948	0	2022-10-16 21:56:01	1	H	2022-10-17 10:21:00	2022-10-17 10:21:00	
