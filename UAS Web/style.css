@@ -1,0 +1,33 @@
+html{
+    scroll-behavior: smooth;
+}
+.jumbotron{
+
+   background-image: url("img/Rofzy_indonesian_food_martabak_2.png");
+   height: 550px;
+   box-shadow: -4px 16px 0px 300px rgba(0,0,0,0.47) inset;
+   background-repeat: no-repeat;
+   background-position: 0px -180px;
+   background-size: cover;
+   
+}
+
+.conten{
+    text-align: center;
+    padding: 100px;
+
+    
+
+}
+.pesan{
+    padding: 100px;
+    background-color: rgb(223, 157, 117);
+}
+.Kami{
+    padding: 150px;
+    background-color: bisque;
+}
+.footer{
+   
+    height: 300px;
+}
