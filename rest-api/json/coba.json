@@ -1,0 +1,16 @@
+[
+{
+    "nama":"Menu special",
+    "harga":75000,
+    "Food": ["sausage,rollchesee,meatball chesee,burger 3 mac"],
+    "Drink": ["cola,tea lemon,soda mix,juice berry"],
+    "bonus":"ice cream cone "
+},
+{
+     "nama":"Menu healty",
+    "harga":55000,
+    "Food": ["salad,tofu ,eggless, salad yogurht"],
+    "Drink": ["healty tea,juice healty, no sugar milk"],
+    "bonus":"fruit "
+}
+]

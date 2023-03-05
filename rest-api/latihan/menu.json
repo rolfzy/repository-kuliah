@@ -1,0 +1,89 @@
+{
+    "menu": [
+        {
+            "kategori": "pizza",
+            "nama": "Meat Lover",
+            "deskripsi": "Irisan sosis sapi, daging sapi cincang, burger sapi, sosis ayam.",
+            "harga": 56500,
+            "gambar": "meat-lovers.png"
+        },
+        {
+            "kategori": "pizza",
+            "nama": "Pepperoni",
+            "deskripsi": "Saus Marinara, Keju Mozzarella, Pepperoni.",
+            "harga": 52500,
+            "gambar": "pepperoni.png"
+        },
+        {
+            "kategori": "pizza",
+            "nama": "Super Supreme",
+            "deskripsi": "Daging Sapi, Sosis Sapi, Paprika Hijau, Saus Marinara, Keju Mozzarella, Jamur, Zaitun, Peperoni, Bawang Merah, Irisan Maco.",
+            "harga": 62500,
+            "gambar": "super-supreme.png"
+        },
+        {
+            "kategori": "pizza",
+            "nama": "Hawaiian",
+            "deskripsi": "Saus Marinara, Keju Mozzarella, Nanas, Irisan Macon.",
+            "harga": 59500,
+            "gambar": "hawaiian.png"
+        },     {
+            "kategori": "snack",
+            "nama": "Chips",
+            "deskripsi": "Potongan Kentang Yang Banyak Dengan Bumbu Melimpah",
+            "harga": 15000,
+            "gambar": "chips.png"
+        },{
+            "kategori": "snack",
+            "nama": "Garlic Bread",
+            "deskripsi": "Roti yang ditaburi dengan bawang putih, mentega, dan juga minyak zaitun. ",
+            "harga": 20000,
+            "gambar": "garlic-bread.png"
+        },      {
+            "kategori": "snack",
+            "nama": "Chiken Strips",
+            "deskripsi": "daging ayam memanjang tanpa tulang di dalamnya, dan berbalut tepung yang crispy.",
+            "harga": 23000,
+            "gambar": "chicken-strips.png"
+        }, {
+            "kategori": "Dessert",
+            "nama": "Chocolate Pizza",
+            "deskripsi": "Pizza dengan Chocolate Premium yang melimpah",
+            "harga": 30000,
+            "gambar": "chocolate-pizza.png"
+        }, {
+            "kategori": "Dessert",
+            "nama": "Kue Choc Chip Raksasa",
+            "deskripsi": "Kue Raksasa dengan chips serta saus coklat",
+            "harga": 17000,
+            "gambar": "Kue-coklat-raksasa.png"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Aqua",
+            "deskripsi": "Minuman Mineral Unik Sejuta umat",
+            "harga": 3000,
+            "gambar": "Aqua.png"
+        }, {
+            "kategori": "minuman",
+            "nama": "Fanta Orange",
+            "deskripsi": "Fanta Dengan Rasa Orange Yang Menyegarkan",
+            "harga": 5000,
+            "gambar": "fanta-orange.png"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Sprite",
+            "deskripsi": "Soda Lemon Yang Pas Untuk Jiwa Yang Haus",
+            "harga": 5000,
+            "gambar": "sprite.png"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Coca-cola",
+            "deskripsi": "Segar Dan Bersoda Sensasi Cola",
+            "harga": 5000,
+            "gambar": "coke.png"
+        }
+    ]
+}
