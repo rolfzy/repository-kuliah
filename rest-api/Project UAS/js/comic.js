@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   }
 
-  cariData();
+ 
 });
 
 $(document).on('input', '#search-input', function() {
