@@ -1,0 +1,152 @@
+{
+    "data": [
+        {
+            "gambar": "https://example.com/solo-leveling.jpg",
+            "ilustrator": "Jang Sung-lak",
+            "judul": "Solo Leveling",
+            "penulis": "Chu-Gong",
+            "sinopsis": "Berlatar di dunia di mana gerbang menuju dunia monster terbuka, Sung Jin-Woo adalah seorang Hunter yang lemah yang kemudian menjadi seorang Shadow Monarch yang kuat. Ia memperoleh kekuatan untuk naik level seiring waktu dan berusaha melindungi umat manusia dari ancaman monster."
+        },
+        {
+            "gambar": "https://example.com/the-god-of-high-school.jpg",
+            "ilustrator": "Yongje Park",
+            "judul": "The God of High School",
+            "penulis": "Park Yong-je",
+            "sinopsis": "Turnamen pertarungan yang menentukan siapa yang akan menjadi Dewa Pencak Silat. Mori Jin, Daewi Han, dan Mira Yoo adalah tiga protagonis utama yang berpartisipasi dalam turnamen tersebut dan berhadapan dengan musuh-musuh kuat serta mengungkap misteri di balik turnamen tersebut."
+        },
+        {
+            "gambar": "https://example.com/tower-of-god.jpg",
+            "ilustrator": "SIU",
+            "judul": "Tower of God",
+            "penulis": "SIU",
+            "sinopsis": "Mengikuti petualangan seorang anak bernama Bam yang memasuki Menara Tuhan dengan harapan menemukan teman dekatnya yang hilang. Di dalam menara, Bam harus melewati lantai-lantai yang penuh dengan ujian dan pertempuran untuk mencapai puncak."
+        },
+        {
+            "gambar": "https://example.com/noblesse.jpg",
+            "ilustrator": "Lee Kwangsu",
+            "judul": "Noblesse",
+            "penulis": "Son Jeho",
+            "sinopsis": "Cerita tentang seorang vampir bangsawan bernama Cadis Etrama Di Raizel yang terbangun setelah tidur panjang selama 820 tahun. Ia bergabung dengan siswa SMA dan melindungi mereka dari ancaman kejahatan supernatural."
+        },
+        {
+            "gambar": "https://example.com/the-breaker.jpg",
+            "ilustrator": "Park Jin-hwan",
+            "judul": "The Breaker",
+            "penulis": "Jeon Geuk-jin",
+            "sinopsis": "Cerita tentang seorang remaja bernama Shi-Woon Yi yang terlibat dalam dunia seni bela diri rahasia yang penuh dengan konspirasi dan pertempuran. Ia menjadi murid dari seorang master seni bela diri yang kuat untuk melindungi dirinya sendiri dan orang-orang di sekitarnya."
+        },
+        {
+            "gambar": "https://example.com/yongbi-the-invincible.jpg",
+            "ilustrator": "Moon Jung-Hoo",
+            "judul": "Yongbi the Invincible",
+            "penulis": "Ryu Ki-Woon",
+            "sinopsis": "Kisah petualangan Yongbi, seorang petarung sakti dengan hati yang baik dan kemampuan luar biasa. Ia terlibat dalam konflik dan pertempuran dengan berbagai tokoh kuat di dunia ini."
+        },
+        {
+            "gambar": "https://example.com/lookism.jpg",
+            "ilustrator": "Park Tae-Jun",
+            "judul": "Lookism",
+            "penulis": "Park Tae-Jun",
+            "sinopsis": "Cerita tentang seorang remaja bernama Daniel Park yang memiliki kemampuan unik untuk berpindah tubuh antara dua penampilan yang berbeda. Ia mengalami konflik sosial dan perjuangan dalam menjalani kehidupan ganda ini."
+        },
+        {
+            "gambar": "https://example.com/the-scholars-reincarnation.jpg",
+            "ilustrator": "Ranzai Studio",
+            "judul": "The Scholar's Reincarnation",
+            "penulis": "So-Ryeon Yoon",
+            "sinopsis": "Setelah mati di dunia nyata, seorang sarjana jenius bereinkarnasi ke dunia fantasi sebagai anak laki-laki yang tidak memiliki bakat. Ia berusaha menggunakan pengetahuan masa lalunya untuk menjadi kuat dan membalas dendam pada musuh-musuhnya."
+        },
+        {
+            "gambar": "https://example.com/bastard.jpg",
+            "ilustrator": "Youngchan Hwang",
+            "judul": "Bastard",
+            "penulis": "Carnby Kim",
+            "sinopsis": "Cerita tentang seorang remaja yang tinggal dengan ayahnya, seorang pembunuh berantai. Ia harus menghadapi kenyataan mengerikan dan keputusan sulit saat rahasia ayahnya terungkap."
+        },
+        {
+            "gambar": "https://example.com/the-gamer.jpg",
+            "ilustrator": "Sang-Ah",
+            "judul": "The Gamer",
+            "penulis": "Sung Sang-Young",
+            "sinopsis": "Seorang remaja bernama Han Jee-Han menemukan bahwa hidupnya seperti berada dalam gim RPG. Ia mendapatkan kemampuan unik yang memungkinkannya melihat dunia seperti gim dan mendapatkan level dan keterampilan seiring berjalannya waktu."
+        },
+        {
+            "gambar": "https://example.com/dice-the-cube-that-changes-everything.jpg",
+            "ilustrator": "Hyunseok Yun",
+            "judul": "Dice: The Cube That Changes Everything",
+            "penulis": "Hyunseok Yun",
+            "sinopsis": "Dalam dunia ini, setiap orang diberikan Dadu yang mempengaruhi kehidupan mereka. Dongtae, seorang remaja yang lemah dan tidak beruntung, mendapatkan Dadu yang unik yang mengubah nasibnya. Ia harus mempelajari aturan Dadu dan menghadapi konsekuensinya."
+        },
+        {
+            "gambar": "https://example.com/unordinary.jpg",
+            "ilustrator": "uruchan",
+            "judul": "Unordinary",
+            "penulis": "uruchan",
+            "sinopsis": "Di dunia di mana kekuatan super adalah hal yang umum, seorang remaja bernama John Doe tidak memiliki kekuatan khusus. Ia mencoba menyembunyikan identitasnya, tetapi saat rahasianya terungkap, hidupnya menjadi lebih rumit."
+        },
+        {
+            "gambar": "https://example.com/the-legendary-moonlight-sculptor.jpg",
+            "ilustrator": "Nam Heesung",
+            "judul": "The Legendary Moonlight Sculptor",
+            "penulis": "Lee Do-Gyeong",
+            "sinopsis": "Seorang pemain gim online bernama Lee Hyun menjadi pemain terbaik di gim virtual populer 'Royal Road'. Ia menjelajahi dunia virtual yang luas, menghadapi petualangan, dan menciptakan karakter yang legendaris."
+        },
+        {
+            "gambar": "https://example.com/sweet-home.jpg",
+            "ilustrator": "Hwang Young-chan",
+            "judul": "Sweet Home",
+            "penulis": "Kim Kan-Bi",
+            "sinopsis": "Cerita bertempat di sebuah gedung apartemen di mana para penghuninya berubah menjadi monster yang mewakili ketakutan dan kegelisahan mereka. Seorang remaja bernama Cha Hyun-Su berusaha bertahan hidup dan melawan monster-monster tersebut."
+        },
+        {
+            "gambar": "https://example.com/gosu.jpg",
+            "ilustrator": "Moon Jung-Hoo",
+            "judul": "Gosu",
+            "penulis": "Ryu Ki-Woon",
+            "sinopsis": "Cerita tentang seorang remaja bernama Yongbi yang berguru di bawah seorang ahli seni bela diri legendaris untuk membalas dendam pada pembunuh gurunya. Ia belajar berbagai ilmu bela diri yang kuat untuk mencapai tujuannya."
+        },
+        {
+            "gambar": "https://example.com/weak-hero.jpg",
+            "ilustrator": "Seopass",
+            "judul": "Weak Hero",
+            "penulis": "Seopass",
+            "sinopsis": "Bercerita tentang remaja bernama Gray, seorang siswa pindahan yang bertemu dengan sekelompok siswa yang suka melakukan kekerasan. Ia berusaha melindungi dirinya sendiri dan menjadi kuat untuk menghadapi intimidasi tersebut."
+        },
+        {
+            "judul": "True Beauty",
+            "penulis": "Yaongyi",
+            "ilustrator": "Yaongyi",
+            "sinopsis": "Cerita tentang seorang gadis bernama Lim Ju-gyeong yang memiliki keahlian dalam makeup dan mengubah penampilannya menjadi cantik. Ia menghadapi konflik dan perjuangan dalam menjaga rahasia aslinya sambil menjalani kehidupan sekolah yang penuh dengan cinta dan persahabatan.",
+            "gambar": "https://example.com/true-beauty.jpg"
+          },
+          {
+            "judul": "The Beginning After the End",
+            "penulis": "TurtleMe",
+            "ilustrator": "Fuyuki23",
+            "sinopsis": "Kisah seorang raja yang kuat bernama Arthur Leywin yang terlahir kembali ke dunia yang mirip dengan dunia fantasi setelah mati di dunia nyata. Ia memulai petualangan baru, memperoleh kekuatan magis, dan berusaha melindungi orang-orang yang dicintainya.",
+            "gambar": "https://example.com/the-beginning-after-the-end.jpg"
+          },
+          {
+            "judul": "I'm the Grim Reaper",
+            "penulis": "GRAVEWEAVER",
+            "ilustrator": "GRAVEWEAVER",
+            "sinopsis": "Cerita tentang seorang remaja bernama Sujin Kang yang secara tak sengaja terjebak menjadi Grim Reaper, makhluk yang bertugas mengambil nyawa manusia. Ia harus belajar menjalankan tugasnya sambil menjaga rahasia identitasnya di dunia manusia.",
+            "gambar": "https://example.com/im-the-grim-reaper.jpg"
+          },
+          {
+            "judul": "Wind Breaker",
+            "penulis": "Jae-hwan Seong",
+            "ilustrator": "Jae-hwan Seong",
+            "sinopsis": "Kisah seorang remaja bernama Jay yang bergabung dengan klub sepeda gunung di sekolahnya. Ia berlatih dan berkompetisi dalam balapan sepeda gunung, menghadapi rivalitas dan tantangan di dunia olahraga yang keras.",
+            "gambar": "https://example.com/wind-breaker.jpg"
+          },
+          {
+            "judul": "Tales of Demons and Gods",
+            "penulis": "Mad Snail",
+            "ilustrator": "Mad Snail",
+            "sinopsis": "Nie Li, Spiritualis Iblis terkuat dalam kehidupannya di masa lalu, berdiri di puncak dunia bela diri. Namun, ia kehilangan nyawanya selama pertempuran dengan Sage Emperor dan enam binatang peringkat dewa",
+            "gambar": "https://example.com/wind-breaker.jpg"
+        
+          }
+    ]
+}
