@@ -1,0 +1,23 @@
+Jika Anda membuat aplikasi untuk perangkat seluler (smartphone), berikut adalah beberapa bagian umum yang dapat ada dalam aplikasi:
+
+1. App Bar: Bagian ini biasanya terletak di bagian atas aplikasi dan berisi judul aplikasi, tombol navigasi, dan ikon akses cepat ke fitur tertentu.
+
+2. Bottom Navigation Bar: Bagian ini biasanya terletak di bagian bawah aplikasi dan berisi ikon atau teks yang mewakili menu navigasi ke bagian-bagian penting dalam aplikasi, seperti halaman utama, pencarian, notifikasi, profil, dll.
+
+3. Drawer: Bagian ini dapat diakses dengan menggeser dari sisi kiri atau kanan aplikasi dan berisi menu navigasi tambahan atau opsi pengaturan.
+
+4. Content Area: Bagian ini adalah area utama di tengah aplikasi yang menampilkan konten utama, seperti daftar, kartu, gambar, teks, dan elemen interaktif lainnya.
+
+5. Form dan Input Fields: Bagian ini digunakan untuk memasukkan atau memperbarui data pengguna, seperti formulir pendaftaran, kolom pencarian, komentar, dll.
+
+6. Notifications: Bagian ini menampilkan pemberitahuan kepada pengguna, seperti notifikasi push atau pesan penting.
+
+7. Dialogs dan Modals: Bagian ini adalah jendela kecil yang muncul di atas konten utama untuk menampilkan pesan, konfirmasi, atau tindakan khusus.
+
+8. Toolbars dan Action Bars: Bagian ini berisi ikon atau tombol tindakan yang relevan dengan konten yang sedang ditampilkan, seperti ikon bagikan, ikon favorit, ikon hapus, dll.
+
+9. Tabs: Bagian ini memungkinkan pengguna beralih antara tampilan yang berbeda dalam satu halaman, seperti tab berita dan tab acara.
+
+10. Footers: Bagian ini terletak di bagian bawah aplikasi dan berisi informasi tambahan, tautan ke halaman lain, hak cipta, dll.
+
+Ini hanyalah beberapa contoh bagian umum yang sering ada dalam aplikasi seluler. Bagian-bagian ini dapat disesuaikan dan diubah sesuai dengan kebutuhan dan desain aplikasi yang Anda buat.
